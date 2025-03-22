@@ -1,0 +1,40 @@
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.PRODUCTS.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CUSTOMERS.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ORDERS.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.USERS.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RProducts.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RCustomers.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RUsers.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ROrders.resources
+D:\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+D:\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+D:\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.CUSTOMERS.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ORDERS.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.PRODUCTS.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RCustomers.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ROrders.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RProducts.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.RUsers.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.USERS.resources
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+D:\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Reboot.resources
+C:\Users\Mohamed Dahir16\Desktop\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Reboot.resources
