@@ -1,0 +1,16 @@
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\bin\Debug\net8.0-windows\Fiind BirdthYear.exe
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\bin\Debug\net8.0-windows\Fiind BirdthYear.deps.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\bin\Debug\net8.0-windows\Fiind BirdthYear.runtimeconfig.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\bin\Debug\net8.0-windows\Fiind BirdthYear.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\bin\Debug\net8.0-windows\Fiind BirdthYear.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind_BirdthYear.Form1.resources
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.csproj.GenerateResource.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.AssemblyInfoInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.AssemblyInfo.cs
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.csproj.CoreCompileInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\refint\Fiind BirdthYear.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\Fiind BirdthYear.genruntimeconfig.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\Fiind BirdthYear\obj\Debug\net8.0-windows\ref\Fiind BirdthYear.dll
