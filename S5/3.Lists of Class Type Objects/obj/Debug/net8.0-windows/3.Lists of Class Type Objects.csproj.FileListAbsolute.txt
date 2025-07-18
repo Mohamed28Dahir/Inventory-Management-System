@@ -1,0 +1,16 @@
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\bin\Debug\net8.0-windows\3.Lists of Class Type Objects.exe
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\bin\Debug\net8.0-windows\3.Lists of Class Type Objects.deps.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\bin\Debug\net8.0-windows\3.Lists of Class Type Objects.runtimeconfig.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\bin\Debug\net8.0-windows\3.Lists of Class Type Objects.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\bin\Debug\net8.0-windows\3.Lists of Class Type Objects.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\_3.Lists_of_Class_Type_Objects.Form1.resources
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.csproj.GenerateResource.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.AssemblyInfoInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.AssemblyInfo.cs
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.csproj.CoreCompileInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\refint\3.Lists of Class Type Objects.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\3.Lists of Class Type Objects.genruntimeconfig.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\3.Lists of Class Type Objects\obj\Debug\net8.0-windows\ref\3.Lists of Class Type Objects.dll
