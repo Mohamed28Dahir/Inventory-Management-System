@@ -1,0 +1,16 @@
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\bin\Debug\net8.0-windows\1. Class&Properties.exe
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\bin\Debug\net8.0-windows\1. Class&Properties.deps.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\bin\Debug\net8.0-windows\1. Class&Properties.runtimeconfig.json
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\bin\Debug\net8.0-windows\1. Class&Properties.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\bin\Debug\net8.0-windows\1. Class&Properties.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\_1._Class_Properties.Form1.resources
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.csproj.GenerateResource.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.AssemblyInfoInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.AssemblyInfo.cs
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.csproj.CoreCompileInputs.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\refint\1. Class&Properties.dll
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.pdb
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\1. Class&Properties.genruntimeconfig.cache
+C:\Users\amind\OneDrive\Desktop\Semester 5\C# 2\1\Practice\Semester 5\1. Class&Properties\obj\Debug\net8.0-windows\ref\1. Class&Properties.dll
